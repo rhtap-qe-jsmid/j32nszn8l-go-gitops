@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: j32nszn8l-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/j32nszn8l-go
